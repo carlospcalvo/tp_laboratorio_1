@@ -1,0 +1,336 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572876805 source:c:\users\alumno\desktop\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1572879905 c:\users\alumno\desktop\tp3\win_64\linkedlist.h
+
+1572879680 c:\users\alumno\desktop\tp3\win_64\employee.h
+
+1572874812 source:c:\users\alumno\desktop\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1572877397 source:c:\users\alumno\desktop\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879180 c:\users\alumno\desktop\tp3\win_64\controller.h
+
+1572879589 source:c:\users\alumno\desktop\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572879180 c:\users\alumno\desktop\tp3\win_64\parser.h
+
+1572978688 source:c:\users\dell\desktop\charlie\code\tp3v2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1572879905 c:\users\dell\desktop\charlie\code\tp3v2\linkedlist.h
+
+1572879680 c:\users\dell\desktop\charlie\code\tp3v2\employee.h
+
+1572879180 c:\users\dell\desktop\charlie\code\tp3v2\parser.h
+
+1572973340 source:c:\users\dell\desktop\charlie\code\tp3v2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572973340 source:c:\users\dell\desktop\charlie\code\tp3v2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1572979945 source:c:\users\dell\desktop\charlie\code\tp3v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879180 c:\users\dell\desktop\charlie\code\tp3v2\controller.h
+
+1573004547 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573004547 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\employee.h
+
+1573004547 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879906 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\linkedlist.h
+
+1572879182 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\controller.h
+
+1573002777 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1572879182 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\parser.h
+
+1572997867 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v2.1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573070552 source:c:\users\dell\desktop\charlie\code\tp3v3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1572879906 c:\users\dell\desktop\charlie\code\tp3v3\linkedlist.h
+
+1573004548 c:\users\dell\desktop\charlie\code\tp3v3\employee.h
+
+1572879182 c:\users\dell\desktop\charlie\code\tp3v3\parser.h
+
+1573070674 source:c:\users\dell\desktop\charlie\code\tp3v3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573073195 source:c:\users\dell\desktop\charlie\code\tp3v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879182 c:\users\dell\desktop\charlie\code\tp3v3\controller.h
+
+1573073021 source:c:\users\dell\desktop\charlie\code\tp3v3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573070676 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573004548 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\employee.h
+
+1573093080 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879906 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\linkedlist.h
+
+1572879182 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\controller.h
+
+1573073022 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573093080 source:c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1572879182 c:\users\carlo\desktop\utn\tsp\programacion i\tp3v4\parser.h
+
+1573159308 source:c:\users\dell\desktop\charlie\code\tp3v4.1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573151209 c:\users\dell\desktop\charlie\code\tp3v4.1\linkedlist.h
+
+1573156027 c:\users\dell\desktop\charlie\code\tp3v4.1\employee.h
+
+1572879182 c:\users\dell\desktop\charlie\code\tp3v4.1\parser.h
+
+1573156055 source:c:\users\dell\desktop\charlie\code\tp3v4.1\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573159343 source:c:\users\dell\desktop\charlie\code\tp3v4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879182 c:\users\dell\desktop\charlie\code\tp3v4.1\controller.h
+
+1573148175 source:c:\users\dell\desktop\charlie\code\tp3v4.1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573159310 source:c:\users\alumno\desktop\tp3v4.2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573151210 c:\users\alumno\desktop\tp3v4.2\linkedlist.h
+
+1573225133 c:\users\alumno\desktop\tp3v4.2\employee.h
+
+1572879182 c:\users\alumno\desktop\tp3v4.2\parser.h
+
+1573156056 source:c:\users\alumno\desktop\tp3v4.2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573159344 source:c:\users\alumno\desktop\tp3v4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879182 c:\users\alumno\desktop\tp3v4.2\controller.h
+
+1573148176 source:c:\users\alumno\desktop\tp3v4.2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573243600 source:c:\users\dell\desktop\charlie\code\tp3v5\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573151210 c:\users\dell\desktop\charlie\code\tp3v5\linkedlist.h
+
+1573243990 c:\users\dell\desktop\charlie\code\tp3v5\employee.h
+
+1572879182 c:\users\dell\desktop\charlie\code\tp3v5\parser.h
+
+1573243859 source:c:\users\dell\desktop\charlie\code\tp3v5\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1573159344 source:c:\users\dell\desktop\charlie\code\tp3v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572879182 c:\users\dell\desktop\charlie\code\tp3v5\controller.h
+
+1573233991 source:c:\users\dell\desktop\charlie\code\tp3v5\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
